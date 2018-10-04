@@ -1,0 +1,110 @@
+body{ 
+	background-image: url(index.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+
+}
+
+h1{
+	font-size: 400%;
+	text-align: center;
+}
+
+#pembukaanlogin{
+	text-align: center;
+	font-size: 200%;
+
+}
+
+#masukdata{
+	text-align: center;
+}
+
+#pembukaanlogin2{
+	text-align: center;
+	font-size: 200%;
+
+}
+
+#Loginnama{
+	text-align: center;
+	font-size: 150%;
+	margin: 2%
+}
+#Loginid{
+	text-align: center;
+	font-size: 150%;
+}
+#loginpass{
+	text-align: center;
+	font-size: 150%;
+}
+
+.panel {
+	margin-top: 100px;
+	box-sizing: border-box;
+	width: 60%;
+	border-radius: 90px;
+	box-shadow: 1px 1px 10px #0f0f0f;
+	background-color: #f6f6f6;
+
+}
+
+.container {
+	box-sizing: border-box;
+	padding: 90px;
+}
+
+.tengah {
+	margin-left: 20%;
+	text-align: center;
+
+}
+
+#Go{
+	margin-left: 180px;
+	width: 100px;
+}
+
+.form{
+	margin-top: 50px
+
+}
+
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	margin-bottom: 16px;
+	font-size: 18px;
+}
+
+.input{
+height:  45px;
+}
+
+.form-submit{
+	background: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top: 20px;
+}
+
+.form-submit:hover
+{
+background-color: #f44336;
+cursor: pointer;
+}
+
+.link1{
+	font-size: 20px;
+	text-align: right;
+}
