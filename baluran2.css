@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("Gambar/Caribbean-Wood-Beach-1920x1080.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0%
+
+
+}
+
+.navv {
+
+    background-color: #28213F;
+    margin: 0;
+    color: #28213f;
+    list-style: none;
+    text-align: center;
+    padding: 30px 10px 20px 0;
+
+
+
+}
+
+.navv > li {
+
+    display: inline-block;
+    padding: 0 25px 0px 25px;
+
+
+}
+
+.navv > li > a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.navv > li > a:hover {
+    color: #e91e63;
+}
+
+.ina {
+    position: absolute;
+    top: -11.5%;
+    width: 250px;
+    height: 250px;
+}
+
+.two {
+    position: absolute;
+    top: 170px;
+    right: 650px;
+    border-radius: 30px;
+    height: 300px;
+    width: 600px;
+    line-height: 2.3;
+    font-size: 23px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.tulis {
+    position: absolute;
+    top: 90px;
+    left: 90px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 34px;
+    letter-spacing: 6px;
+}
+
+#top,
+#bottom {
+    background: #8C0C0C;
+    position: fixed;
+}
+
+#bottom {
+    left: 38px;
+    ;
+    right: 0;
+    height: 2px;
+    width: 37px;
+}
+
+#bottom {
+    bottom: 505px;
+}
+
+.tema {
+    position: absolute;
+    border-radius: 40px;
+    height: 390px;
+    right: 90px;
+    bottom: 100px;
+}
+
+#top,
+#bottomm,
+#left,
+#right {
+    background: #8C0C0C;
+    position: fixed;
+}
+
+#right {
+    top: 400px;
+    bottom: 0;
+    width: 3px;
+    height: 140px
+}
+
+#right {
+    right: 70px;
+}
+
+#bottomm {
+    left: 1000px;
+    right: 0;
+    height: 3.5px;
+    width: 200px
+}
+
+#bottomm {
+    bottom: 70px;
+}
+.kawah1{
+    position: relative;
+    width: 1280px;
+    height: 579.3px;
+}
+.kawah11{
+    position: absolute;
+    width: 300px;
+    height: ;
+    top: 190px;
+    left: 100px
+}
+.tuliss1{
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    left: 350px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 47px;
+    letter-spacing: 6px;
+    color: #ffffff;
+
+}
+.tulisan1{
+    position: absolute;
+    top: 400px;
+     letter-spacing: 2px;
+    font-family: "Times New Roman", Times, serif;
+      font-style: italic;
+    font-size: 20px;
+    color: #ffffff;
+}
+.Search-box {
+    float: right;
+    position: absolute;
+    margin-top: -50px;
+    right: 1%;
+    transform: translate(0%, 0%);
+    background: #2f3640;
+    height: 40px;
+    border-radius: 90px;
+    padding: 1px;
+    z-index: 1;
+    top: 10%;
+}
+
+.Search-box:hover > .Search-txt {
+    width: 240px;
+    padding: 0 6px;
+}
+
+.Search-box:hover > .Search-btn {
+    background: white;
+
+}
+
+.Search-btn {
+    color: #e84118;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2f3640;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+}
+ .footer{
+        padding-left: 10px;
+        color: white;
+        padding-top: 10px;
+        background-color: #28213F;
+        width: 99,9%;
+        height: 150px;
+        position:static;
+        overflow: hidden;
+    }
+    .katakanan{
+        padding-right: 20px;
+        margin: 10px;
+        float: right;
+        color: white;
+    }

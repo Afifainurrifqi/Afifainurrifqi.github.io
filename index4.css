@@ -48,3 +48,20 @@ body {
     line-height: 40px;
     width: 0px;
 }
+.footer{
+        padding-left: 10px;
+        color: white;
+        padding-top: 10px;
+        background-color: #28213F;
+        width: 99,9%;
+        height: 150px;
+        position:static;
+        overflow: hidden;
+    }
+    .katakanan{
+        padding-right: 20px;
+        margin: 10px;
+        float: right;
+        color: white;
+    }
+
